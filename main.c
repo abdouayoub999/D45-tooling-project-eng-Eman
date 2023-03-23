@@ -21,3 +21,4 @@ int main()
  printf ("The number is even=0\n"); 
  }
  return 0;}
+// version 2
